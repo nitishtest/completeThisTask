@@ -9,6 +9,9 @@ You can Run this file on your system.
 print("This is a change done on 17th July")
 #Write Something
 
+x = "This is a variable"
+print(x)
+
 
 print('''
 Also, copy below code on your Python IDE and RUN.
