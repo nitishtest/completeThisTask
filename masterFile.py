@@ -26,7 +26,7 @@ print("TAERG gniod era uoY"[ : : -1])
 print("This is a simple maths power syntax")
 print(3 ** 3)
 
-
+print(4 ** 4)
 
 
 import time
